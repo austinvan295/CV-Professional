@@ -1,0 +1,132 @@
+/* div {
+  background-color: #F9F3DF;
+} */
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Playfair Display', serif;
+}
+
+h1 {
+  font-size: 5.625em;
+  margin: -100px auto 0 auto;
+  font-family: 'Bebas Neue', cursive;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  color: blue;
+
+}
+
+h4 {
+  text-align: left;
+}
+/* Class Selectors */
+.houston {
+  text-align: left;
+}
+
+.tech {
+  text-align: left;
+  font-weight: bold;
+}
+.edu {
+  width: 7%;
+}
+.CFF {
+  color: blue;
+}
+
+.REE {
+  color:blue;
+}
+
+.PersonalPage {
+  color:blue;
+}
+.bio {
+  font-size: 1.9rem;
+  font-family: 'Bebas Neue', cursive;
+}
+.TopContainer {
+  padding: 80px;
+  position: relative;
+  padding-top: 350px;
+  background-color: #fcde67;
+}
+
+.MiddleContainer {
+}
+
+.BottomContainer {
+}
+
+/* .bdata {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.h {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+} */
+
+.DigitalMarketing {
+  width: 25%;
+  text-align: left;
+  line-height: 2;
+  float: left;
+}
+
+.workexperiences {
+  width: 7%;
+}
+
+.Convo {
+  width: 25%;
+  text-align: left;
+  line-height: 1;
+  float: left;
+}
+
+.programmer{
+  border-bottom: 1px solid;
+}
+
+.web {
+  border-bottom: 1px solid;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.Skills {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.hobbies-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.Hobbies {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
